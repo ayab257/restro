@@ -93,3 +93,56 @@
     background: none;
     text-align: center;
 }
+#featuredBig{
+	padding-top: 100px;
+    padding-bottom: 100px;
+}
+#featured{
+	margin-left: 20%;
+}
+#title{
+	position: relative;
+    float: left;
+    color: #3b3b3b;
+    line-height: 20px;
+}
+#featuredPic{
+	clear: both;
+
+}
+.pic-featured{
+	margin-left: 5%;
+	width: 15%;
+	float:left;
+}
+#fistPic{
+	margin-left: 20% !important;
+}
+.pic{
+	margin-top: 80px;
+    margin-bottom: 30px;
+    width: 100%
+    
+}
+h3{
+	font: Arial;
+    color: #555;
+    margin: 0;
+    line-height: 16px;
+    float: left;
+}
+.featured-price{
+	margin: 0;
+    line-height: 16px;
+    color: #555;
+    float: right;
+}
+.rating{
+	unicode-bidi: bidi-override;
+    direction: rtl;
+    clear: both;
+    text-align: left;
+    color: #f1df1a;
+}
+
+

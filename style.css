@@ -1,0 +1,95 @@
+.centered{
+	text-align:center;
+}
+
+#logo1{
+	margin-left: 20%;	
+	float:left;
+}
+#menu{
+	margin-right: 20%;
+	font-family: helvetica;
+	font-weight: bold;
+	color: gray; 
+	float: right;
+}
+
+#menu li{
+	display: inline;
+	list-style: none;
+	padding: 10px;
+	
+}
+#clearbox{
+	clear:both;
+	overflow: hidden;
+}
+#food1{
+	float:left;
+	margin-left: 20%;
+}
+#food2{
+	float: right;
+	margin-right: 20%;
+}
+#smallPic{
+	margin-bottom: 80px;
+}
+1
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+
+.menu-body {
+  max-width: 680px;
+  display: block;
+}
+ 
+.menu-section {
+  margin-bottom: 80px;
+}
+ 
+
+.menu-item {
+  margin: 35px 0;
+  font-size: 18px;
+}
+ 
+.menu-item-name{
+  font-family: helvetica;
+  font-weight: bold;
+}
+ 
+.menu-item-description {
+  font-style: italic;
+  font-size: .9em;
+  line-height: 1.5em;
+  color: #b7b7b7;
+}
+ 
+.menu-item-price{
+  float: right;
+  font-weight: bold;
+  font-family: arial;
+  margin-top: -22px;
+}
+#button{
+    display: inline-block;
+    margin-top: 90px;
+    width: 135px;
+    height: 35px;
+    color: #b7b7b7;
+    font-size: 14px;
+    border: 1px solid #b7b7b7;
+    background: none;
+    text-align: center;
+}
